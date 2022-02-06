@@ -10,6 +10,6 @@ redirect_from:
 
 I am a Computer Scientist, specialized in Cyber Security and focusing on Security in the Cloud Native Ecosystem, in particular on [Kubernetes](https://kubernetes.io).
 
-Currently, I work as Chief Cyber Security Officer at [Cloudical Deutschland GmbH](https://cloudical.io), and as External Lecturer for IT-Security in the Computer Science Department at the [DHBW Karlsruhe](https://karlsruhe.dhbw.de) and at the [FH Technikum Wien](https://technikum-wien.at). 
+Currently, I work as Chief Cyber Security Officer at [Cloudical Deutschland GmbH](https://cloudical.io), and as External Lecturer for IT-Security in the Computer Science Department at the [DHBW Karlsruhe](https://karlsruhe.dhbw.de) and at the [FH Technikum Wien](https://technikum-wien.at). Further, I work as part-time Postdoc in the [Center for Information Security and Trust](https://cist.dk/) at the [IT University of Copenhagen](https://www.itu.dk/).
 
 I hold a PhD on Usable Security with application on End-to-End Verifiable Electronic Voting Systems from the [Computer Science Department](https://www.informatik.tu-darmstadt.de/) at the [Technische Universität Darmstadt](https://www.tu-darmstadt.de).
