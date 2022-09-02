@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Computer Scientist, specialized in Cyber Security and focusing on Security in the Cloud Native Ecosystem, Usable Security and Secure, End-to-End Verifiable Electronic Voting Systems.
+I am a Computer Scientist, specialized in Cyber Security and focusing on Security in the Cloud Native Ecosystem, Usable Security and Secure, End-to-End Verifiable E-Voting Systems.
 
 Currently, I work as a Lecturer at the [Department of Computer Science and Engineering](http://www.qu.edu.qa/engineering/academics/computer), affiliated in the [Cyber Security Concentration](http://www.qu.edu.qa/engineering/academics/computer/cs/cybersecurity), at the [Qatar University](http://www.qu.edu.qa/).
 
