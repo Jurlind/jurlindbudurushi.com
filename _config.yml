@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jurlind Budurushi"
-  avatar           : "Jurlind Budurushi.jpg"
+  avatar           : "JurlindBudurushi.jpg"
   bio              : "Lecturer and Researcher at Qatar University | Cyber Security | Cloud Security | Usable Security | E-Voting"
   location         : "Doha, Qatar"
   employer         :
@@ -149,7 +149,7 @@ exclude:
 keep_files:
   - .git
   - .svn
-encoding: "utf-8"
+encoding: "UTF-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
@@ -170,7 +170,7 @@ kramdown:
   entity_output: as_char
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
+  #enable_coderay: false
 
 
 # Collections
@@ -246,7 +246,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Germany/Berlin # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Qatar # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
