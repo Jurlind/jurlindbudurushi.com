@@ -177,16 +177,16 @@ kramdown:
 collections:
   teaching:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection
   publications:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection
   academicservices:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection
   talks:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection
 
 
 # Defaults
@@ -243,7 +243,7 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
+permalink: /:categories
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
 timezone: Asia/Qatar # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
