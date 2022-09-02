@@ -1,13 +1,13 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+  name        : "Jurlind Budurushi"
+  uri         : "http://jurlindbudurushi.com"
+  email       : "hello@jurlindbudurushi.com"
+  bio         : "Lecturer and Researcher at Qatar University | Cyber Security | Cloud Security | Usable Security | E-Voting"
+  avatar      : "JurlindBudurushi.jpg"
+  twitter     : "jbudurushi"
+ # google_plus : ""
 
 Name2 Name2:
   name        : "Name2 Name2"
