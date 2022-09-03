@@ -2,7 +2,7 @@
 title: "E-Mail made in Germany"
 collection: publications
 permalink: /publication/2016-05-E-Mail-made-in-Germany
-date: 2016-05
+date: 2016
 venue: 'Datenschutz und Datensicherheit-DuD'
 citation: ' Jurlind Budurushi,  Annika Hilt,  Melanie Volkamer, &quot;E-Mail made in Germany.&quot; Datenschutz und Datensicherheit-DuD, 2016.'
 ---

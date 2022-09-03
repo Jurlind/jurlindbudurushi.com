@@ -2,7 +2,7 @@
 title: "Vote casting device with VV-SV-PAT for elections with complicated ballot papers"
 collection: publications
 permalink: /publication/2011-08-Vote-casting-device-with-VV-SV-PAT-for-elections-with-complicated-ballot-papers
-date: 2011-08
+date: 2011
 venue: 'In the proceedings of International Workshop on Requirements Engineering for Electronic Voting Systems (REVOTE&apos;11)'
 citation: ' Melanie Volkamer,  Jurlind Budurushi,  Denise Demirel, &quot;Vote casting device with VV-SV-PAT for elections with complicated ballot papers.&quot; In the proceedings of International Workshop on Requirements Engineering for Electronic Voting Systems (REVOTE&amp;apos;11), 2011.'
 ---
