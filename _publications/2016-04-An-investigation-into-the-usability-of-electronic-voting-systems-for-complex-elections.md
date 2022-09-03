@@ -2,7 +2,7 @@
 title: "An investigation into the usability of electronic voting systems for complex elections"
 collection: publications
 permalink: /publication/2016-04-An-investigation-into-the-usability-of-electronic-voting-systems-for-complex-elections
-date: 2016
+date: 2016-04-01
 venue: 'Annals of Telecommunications'
 citation: ' Jurlind Budurushi,  Karen Renaud,  Melani Volkamer,  Marcel Woide, &quot;An investigation into the usability of electronic voting systems for complex elections.&quot; Annals of Telecommunications, 2016.'
 ---
