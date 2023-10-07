@@ -3,14 +3,14 @@ main:
 #  - title: "Academic Services"
 #    url: /academicservices/
 
-  - title: "Peer-reviewed Publications"
-    url: /publications/
+#  - title: "Proceedings"
+#    url: /proceedings/
 
-  - title: "Proceeding Editor"
-    url: /editor/
+#  - title: "Journals"
+#    url: /journals/
 
-  - title: Report Articles
-    url: /reports/
+#  - title: Editor
+#    url: /editor/
 
 #  - title: "Talks"
 #    url: /talks/    
