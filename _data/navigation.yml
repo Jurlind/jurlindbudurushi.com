@@ -6,6 +6,12 @@ main:
   - title: "Peer-reviewed Publications"
     url: /publications/
 
+  - title: "Proceeding Editor"
+    url: /editor/
+
+  - title: Report Articles
+    url: /reports/
+
 #  - title: "Talks"
 #    url: /talks/    
 
