@@ -158,7 +158,7 @@ for pubsource in publist:
                     md += "\nexcerpt: '" + html_escape(b["note"]) + "'"
                     note = True
 
-            md += "\ndate: " + str(pub_date) 
+         #   md += "\ndate: " + str(pub_date) 
 
             md += "\nvenue: '" + html_escape(venue) + "'"
             
