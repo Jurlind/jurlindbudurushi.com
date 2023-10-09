@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 author:
-  name: Jurlind Budurushi
+  #name: Jurlind Budurushi
   googlescholar: "https://scholar.google.de/citations?user=CrFW5JsAAAAJ"
 ---
 
