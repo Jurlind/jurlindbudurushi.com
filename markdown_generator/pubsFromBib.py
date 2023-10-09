@@ -142,7 +142,7 @@ for pubsource in publist:
             venue = publist[pubsource]["venue-pretext"]+b[publist[pubsource]["venuekey"]].replace("{", "").replace("}","").replace("\\","")
 
             citation = citation + " " + html_escape(venue)
-            citation = citation + ", " + pub_year + "."
+            citation = citation #+ ", " + pub_year + "."
 
             
             ## YAML variables
@@ -174,8 +174,8 @@ for pubsource in publist:
 
             
             ## Markdown description for individual page
-            if note:
-                md += "\n" + html_escape(b["note"]) + "\n"
+         #   if note:
+         #       md += "\n" + html_escape(b["note"]) + "\n"
 
             if url:
                 md += "\n[Access paper here](" + b["url"] + "){:target=\"_blank\"}\n" 

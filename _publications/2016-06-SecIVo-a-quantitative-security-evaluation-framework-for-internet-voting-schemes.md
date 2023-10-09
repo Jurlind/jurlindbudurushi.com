@@ -3,6 +3,7 @@ title: "SecIVo: a quantitative security evaluation framework for internet voting
 collection: publications
 permalink: /publications/2016-06-SecIVo-a-quantitative-security-evaluation-framework-for-internet-voting-schemes
 venue: 'Annals of Telecommunications'
-citation: ' Stephan Neumann,  Melanie Volkamer,  Jurlind Budurushi,  Marco Prandini, &quot;SecIVo: a quantitative security evaluation framework for internet voting schemes.&quot; Annals of Telecommunications, 2016.'
+paperurl: 'https://doi.org/10.1007/s12243-016-0520-0'
+citation: ' Stephan Neumann,  Melanie Volkamer,  Jurlind Budurushi,  Marco Prandini, &quot;SecIVo: a quantitative security evaluation framework for internet voting schemes.&quot; Annals of Telecommunications'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=SecIVo:+a+quantitative+security+evaluation+framework+for+internet+voting+schemes){:target="_blank"} for full citation
+[Access paper here](https://doi.org/10.1007/s12243-016-0520-0){:target="_blank"}

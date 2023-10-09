@@ -3,6 +3,7 @@ title: "Coercion-resistant proxy voting"
 collection: publications
 permalink: /publications/2017-11-Coercion-resistant-proxy-voting
 venue: 'Computers &amp; Security'
-citation: ' Oksana Kulyk,  Stephan Neumann,  Karola Marky,  Jurlind Budurushi,  Melanie Volkamer, &quot;Coercion-resistant proxy voting.&quot; Computers &amp;amp; Security, 2017.'
+paperurl: 'https://doi.org/10.1016/j.cose.2017.06.007'
+citation: ' Oksana Kulyk,  Stephan Neumann,  Karola Marky,  Jurlind Budurushi,  Melanie Volkamer, &quot;Coercion-resistant proxy voting.&quot; Computers &amp;amp; Security'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Coercion+resistant+proxy+voting){:target="_blank"} for full citation
+[Access paper here](https://doi.org/10.1016/j.cose.2017.06.007){:target="_blank"}

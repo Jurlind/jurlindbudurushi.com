@@ -3,6 +3,7 @@ title: "Analysis of Security and Cryptographic Approaches to Provide Secret and 
 collection: publications
 permalink: /publications/2014-01-Analysis-of-Security-and-Cryptographic-Approaches-to-Provide-Secret-and-Verifiable-Electronic-Voting
 venue: 'Design, Development, and Use of Secure Electronic Voting Systems'
-citation: ' Stephan Neumann,  Jurlind Budurushi,  Melanie Volkamer, &quot;Analysis of Security and Cryptographic Approaches to Provide Secret and Verifiable Electronic Voting.&quot; Design, Development, and Use of Secure Electronic Voting Systems, 2014.'
+paperurl: 'https://doi.org/10.4018/978-1-4666-5820-2.ch002'
+citation: ' Stephan Neumann,  Jurlind Budurushi,  Melanie Volkamer, &quot;Analysis of Security and Cryptographic Approaches to Provide Secret and Verifiable Electronic Voting.&quot; Design, Development, and Use of Secure Electronic Voting Systems'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Analysis+of+Security+and+Cryptographic+Approaches+to+Provide+Secret+and+Verifiable+Electronic+Voting){:target="_blank"} for full citation
+[Access paper here](https://doi.org/10.4018/978-1-4666-5820-2.ch002){:target="_blank"}
