@@ -133,9 +133,9 @@ for pubsource in publist:
 
             #citation authors - todo - add highlighting for primary author?
             for author in bibdata.entries[bib_id].persons["author"]:
-               # if "Jurlind" in author.first_names:
-               #     citation = citation+" "+"<b>"+author.first_names[0]+" "+author.last_names[0]+"</b>"+", "
-               # else:
+                if "Jurlind" in author.first_names:
+                    citation = citation+" "+"<b>"+author.first_names[0]+" "+author.last_names[0]+"</b>"+", "
+                else:
                     citation = citation+" "+author.first_names[0]+" "+author.last_names[0]+", "
 
             #citation title
@@ -173,7 +173,7 @@ for pubsource in publist:
 
             md += "\ncitation: '" + html_escape(citation) + "'"
 
-     #       md += "\n---"
+            md += "\n---"
 
             
             ## Markdown description for individual page
