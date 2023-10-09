@@ -4,5 +4,5 @@ collection: publications
 permalink: /publications/2016-02-Usable-Security-Evaluation-of-EasyVote-in-the-Context-of-Complex-Elections
 venue: 'Usable Security Evaluation of EasyVote in the Context of Complex Elections'
 paperurl: 'http://tuprints.ulb.tu-darmstadt.de/5418/'
-citation: ' <b>Jurlind Budurushi</b>, &quot;Usable Security Evaluation of EasyVote in the Context of Complex Elections.&quot; Usable Security Evaluation of EasyVote in the Context of Complex Elections'
+citation: ' <b>Jurlind Budurushi</b>, </br> Usable Security Evaluation of EasyVote in the Context of Complex Elections</br>'
 ---
