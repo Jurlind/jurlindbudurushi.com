@@ -1,11 +1,11 @@
 ---
-layout: single
+layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
-author:
-  #name: Jurlind Budurushi
-  googlescholar: "https://scholar.google.de/citations?user=CrFW5JsAAAAJ"
+#author:
+#  name: Jurlind Budurushi
+#  googlescholar: "https://scholar.google.de/citations?user=CrFW5JsAAAAJ"
 ---
 
 {% if author.googlescholar %}
