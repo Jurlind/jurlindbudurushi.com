@@ -1,0 +1,9 @@
+---
+title: "Recent Developments in the Context of Online Elections and Digital Polls in Germany"
+collection: publications
+permalink: /publications/2022-04-Recent-Developments-in-the-Context-of-Online-Elections-and-Digital-Polls-in-Germany
+date: 2022-04
+venue: 'In the proceedings of Sicherheit, Schutz und Zuverl&quot;assigkeit: Konferenzband der 11. Jahrestagung des Fachbereichs Sicherheit der Gesellschaft f&quot;ur Informatik e.V. (GI Sicherheit 2022)'
+citation: ' Bernhard Beckert,  Jurlind Budurushi,  Armin Grunwald,  Robert Krimmer,  Oksana Kulyk,  Ralf K{\&quot;{u}}sters,  Andreas Mayer,  J{\&quot;{o}}rn M{\&quot;{u}}ller{-}Quade,  Stephan Neumann,  Melanie Volkamer, &quot;Recent Developments in the Context of Online Elections and Digital Polls in Germany.&quot; In the proceedings of Sicherheit, Schutz und Zuverl&amp;quot;assigkeit: Konferenzband der 11. Jahrestagung des Fachbereichs Sicherheit der Gesellschaft f&amp;quot;ur Informatik e.V. (GI Sicherheit 2022), 2022.'
+---
+Use [Google Scholar](https://scholar.google.com/scholar?q=Recent+Developments+in+the+Context+of+Online+Elections+and+Digital+Polls+in+Germany){:target="_blank"} for full citation

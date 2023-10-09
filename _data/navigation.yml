@@ -3,8 +3,8 @@ main:
 #  - title: "Academic Services"
 #    url: /academicservices/
 
-#  - title: "Proceedings"
-#    url: /proceedings/
+  - title: "Publications"
+    url: /publications/
 
 #  - title: "Journals"
 #    url: /journals/

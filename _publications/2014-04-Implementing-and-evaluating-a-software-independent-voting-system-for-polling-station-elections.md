@@ -1,8 +1,8 @@
 ---
 title: "Implementing and evaluating a software-independent voting system for polling station elections"
 collection: publications
-permalink: /publication/2014-04-Implementing-and-evaluating-a-software-independent-voting-system-for-polling-station-elections
-date: 2014-04-01
+permalink: /publications/2014-04-Implementing-and-evaluating-a-software-independent-voting-system-for-polling-station-elections
+date: 2014-04
 venue: 'Journal of Information Security and Applications'
 paperurl: 'http://www.sciencedirect.com/science/article/pii/S2214212614000131'
 citation: ' Jurlind Budurushi,  Roman Jöris,  Melanie Volkamer, &quot;Implementing and evaluating a software-independent voting system for polling station elections.&quot; Journal of Information Security and Applications, 2014.'

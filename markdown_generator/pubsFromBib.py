@@ -26,29 +26,54 @@ import re
 
 #todo: incorporate different collection types rather than a catch all publications, requires other changes to template
 publist = {
-    "proceeding": {
-        "file": "editor.bib",
+    "proceedings": {
+        "file": "bibfiles/proceedings.bib",
         "venuekey": "booktitle",
         "venue-pretext": "In the proceedings of ",
-        "collection": {"name":"proceeding",
-                        "permalink":"/proceedings/"}
+        "collection": {"name":"publications",
+                        "permalink":"/publications/"}
         
-    }
-   # "journal":{
-        #"file": "journals.bib",
-       # "venuekey": "journal",
-      #  "venue-pretext" : "",
-     #   "collection": {"name":"journal",
-    #                    "permalink":"/journals/"}
-   # },
+    },
 
-    #"editor":{
-        #"file": "editor.bib",
-        #"venuekey": "journal",
-       # "venue-pretext" : "",
-      #  "collection": {"name":"editor",
-     #                   "permalink":"/editor/"}
-    #}
+    "journals":{
+        "file": "bibfiles/journals.bib",
+        "venuekey": "journal",
+        "venue-pretext" : "",
+        "collection": {"name":"publications",
+                        "permalink":"/publications/"}
+    },
+
+    "bookchapters":{
+        "file": "bibfiles/bookchapters.bib",
+        "venuekey": "booktitle",
+        "venue-pretext" : "",
+        "collection": {"name":"publications",
+                        "permalink":"/publications/"}
+    },
+
+    "editor":{
+        "file": "bibfiles/editor.bib",
+        "venuekey": "title",
+        "venue-pretext" : "",
+        "collection": {"name":"publications",
+                        "permalink":"/publications/"}
+    },
+
+    "prepints":{
+        "file": "bibfiles/preprints.bib",
+        "venuekey": "title",
+        "venue-pretext" : "",
+        "collection": {"name":"publications",
+                        "permalink":"/publications/"}
+    },
+
+    "phd":{
+        "file": "bibfiles/phd.bib",
+        "venuekey": "title",
+        "venue-pretext" : "",
+        "collection": {"name":"publications",
+                        "permalink":"/publications/"}
+    }
 }
 
 html_escape_table = {
@@ -159,7 +184,7 @@ for pubsource in publist:
 
             md_filename = os.path.basename(md_filename)
 
-            with open("../_publications/" + md_filename, 'w') as f:
+            with open("_publications/" + md_filename, 'w') as f:
                 f.write(md)
             print(f'SUCESSFULLY PARSED {bib_id}: \"', b["title"][:60],"..."*(len(b['title'])>60),"\"")
         # field may not exist for a reference

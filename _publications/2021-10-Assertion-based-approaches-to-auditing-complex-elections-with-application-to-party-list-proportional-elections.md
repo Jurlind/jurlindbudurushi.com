@@ -1,9 +1,10 @@
 ---
-title: "Assertion-based approaches to auditing complex elections, with application to party-list proportional elections"
+title: "Assertion-Based Approaches to Auditing Complex Elections, with Application to Party-List Proportional Elections"
 collection: publications
-permalink: /publication/2021-10-Assertion-based-approaches-to-auditing-complex-elections-with-application-to-party-list-proportional-elections
-date: 2021-10-01
-venue: 'In the proceedings of International Joint Conference on Electronic Voting'
-citation: ' Michelle Blom,  Jurlind Budurushi,  Ronald Rivest,  Philip Stark,  Peter Stuckey,  Vanessa Teague,  Damjan Vukcevic, &quot;Assertion-based approaches to auditing complex elections, with application to party-list proportional elections.&quot; In the proceedings of International Joint Conference on Electronic Voting, 2021.'
+permalink: /publications/2021-10-Assertion-Based-Approaches-to-Auditing-Complex-Elections-with-Application-to-Party-List-Proportional-Elections
+date: 2021-10
+venue: 'In the proceedings of Electronic Voting - 6th International Joint Conference on Electronic Voting (E-Vote-ID 2021)'
+paperurl: 'https://link.springer.com/chapter/10.1007/978-3-030-86942-7_4'
+citation: ' Michelle Blom,  Jurlind Budurushi,  Ronald Rivest,  Philip Stark,  Peter Stuckey,  Vanessa Teague,  Damjan Vukcevic, &quot;Assertion-Based Approaches to Auditing Complex Elections, with Application to Party-List Proportional Elections.&quot; In the proceedings of Electronic Voting - 6th International Joint Conference on Electronic Voting (E-Vote-ID 2021), 2021.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Assertion+based+approaches+to+auditing+complex+elections,+with+application+to+party+list+proportional+elections){:target="_blank"} for full citation
+[Access paper here](https://link.springer.com/chapter/10.1007/978-3-030-86942-7_4){:target="_blank"}
