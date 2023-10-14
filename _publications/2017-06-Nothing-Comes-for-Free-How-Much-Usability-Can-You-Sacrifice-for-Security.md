@@ -1,6 +1,6 @@
 ---
 title: "Nothing Comes for Free: How Much Usability Can You Sacrifice for Security?"
-collection: publications
+collection: journals
 permalink: /publications/2017-06-Nothing-Comes-for-Free-How-Much-Usability-Can-You-Sacrifice-for-Security
 venue: 'IEEE Security &amp; Privacy'
 paperurl: 'https://doi.org/10.1109/MSP.2017.70'

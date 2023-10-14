@@ -1,6 +1,6 @@
 ---
 title: "Aktuelle Entwicklungen im Kontext von Online-Wahlen und digitalen Abstimmungen"
-collection: publications
+collection: preprints
 permalink: /publications/2021-09-Aktuelle-Entwicklungen-im-Kontext-von-Online-Wahlen-und-digitalen-Abstimmungen
 venue: 'Aktuelle Entwicklungen im Kontext von Online-Wahlen und digitalen Abstimmungen'
 paperurl: 'https://doi.org/10.5445/IR/1000137300'

@@ -1,6 +1,6 @@
 ---
 title: "Öffentlichkeitsgrundsatz und Stimmzettelbelege"
-collection: publications
+collection: preprints
 permalink: /publications/2014-01-ffentlichkeitsgrundsatz-und-Stimmzettelbelege
 venue: 'Öffentlichkeitsgrundsatz und Stimmzettelbelege'
 paperurl: 'https://download.hrz.tu-darmstadt.de/media/FB20/Dekanat/Publikationen/SECUSO/OEffentlichkeitsgrundsatzundStimmzettelbelege.pdf'

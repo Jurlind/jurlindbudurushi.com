@@ -1,6 +1,6 @@
 ---
 title: "Electronic Voting - 7th International Joint Conference on Electronic Voting (E-Vote-ID 2022)"
-collection: publications
+collection: editors
 permalink: /publications/2022-10-Electronic-Voting-7th-International-Joint-Conference-on-Electronic-Voting-E-Vote-ID-2022
 venue: 'Electronic Voting - 7th International Joint Conference on Electronic Voting (E-Vote-ID 2022)'
 paperurl: 'http://hdl.handle.net/10062/84432'

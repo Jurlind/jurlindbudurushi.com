@@ -1,6 +1,6 @@
 ---
 title: "Introduction to special issue on e-voting"
-collection: publications
+collection: journals
 permalink: /publications/2018-01-Introduction-to-special-issue-on-e-voting
 venue: 'Journal of Information Security and Applications'
 paperurl: 'https://doi.org/10.1016/j.jisa.2017.12.003'

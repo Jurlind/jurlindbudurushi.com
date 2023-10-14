@@ -1,6 +1,6 @@
 ---
 title: "Coercion-resistant proxy voting"
-collection: publications
+collection: journals
 permalink: /publications/2017-11-Coercion-resistant-proxy-voting
 venue: 'Computers &amp; Security'
 paperurl: 'https://doi.org/10.1016/j.cose.2017.06.007'

@@ -29,7 +29,7 @@ publist = {
     "proceedings": {
         "file": "bibfiles/proceedings.bib",
         "venuekey": "booktitle",
-        "venue-pretext": "In the proceedings of ",
+        "venue-pretext": "",
         "collection": {"name":"publications",
                         "permalink":"/publications/"}
         
@@ -39,7 +39,7 @@ publist = {
         "file": "bibfiles/journals.bib",
         "venuekey": "journal",
         "venue-pretext" : "",
-        "collection": {"name":"publications",
+        "collection": {"name":"journals",
                         "permalink":"/publications/"}
     },
 
@@ -47,7 +47,7 @@ publist = {
         "file": "bibfiles/bookchapters.bib",
         "venuekey": "booktitle",
         "venue-pretext" : "",
-        "collection": {"name":"publications",
+        "collection": {"name":"bookchapters",
                         "permalink":"/publications/"}
     },
 
@@ -55,7 +55,7 @@ publist = {
         "file": "bibfiles/editor.bib",
         "venuekey": "title",
         "venue-pretext" : "",
-        "collection": {"name":"publications",
+        "collection": {"name":"editors",
                         "permalink":"/publications/"}
     },
 
@@ -63,7 +63,7 @@ publist = {
         "file": "bibfiles/preprints.bib",
         "venuekey": "title",
         "venue-pretext" : "",
-        "collection": {"name":"publications",
+        "collection": {"name":"preprints",
                         "permalink":"/publications/"}
     },
 
@@ -71,7 +71,7 @@ publist = {
         "file": "bibfiles/phd.bib",
         "venuekey": "title",
         "venue-pretext" : "",
-        "collection": {"name":"publications",
+        "collection": {"name":"phd",
                         "permalink":"/publications/"}
     }
 }
