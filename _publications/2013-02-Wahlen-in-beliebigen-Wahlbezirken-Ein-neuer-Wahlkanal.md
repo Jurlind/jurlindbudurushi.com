@@ -6,4 +6,5 @@ venue: 'Abstraction and Application: Proceedings of the 16th International Legal
 pages: '249-256'
 publisher: 'Austrian Computer Society'
 year: '2013'
-citation: ' <b>Jurlind Budurushi</b>,  Maria Henning,  Melanie Volkamer</br> Abstraction and Application: Proceedings of the 16th International Legal Informatics Symposium (IRIS 2013)</br>'
+citation: ' <b>Jurlind Budurushi</b>,  Maria Henning,  Melanie Volkamer</br> Abstraction and Application: Proceedings of the 16th International Legal Informatics Symposium (IRIS 2013)'
+---

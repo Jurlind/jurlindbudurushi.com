@@ -7,4 +7,5 @@ pages: '27-61'
 publisher: 'IGI Global'
 year: '2014'
 paperurl: 'https://doi.org/10.4018/978-1-4666-5820-2.ch002'
-citation: ' Stephan Neumann,  <b>Jurlind Budurushi</b>,  Melanie Volkamer</br> Design, Development, and Use of Secure Electronic Voting Systems</br>'
+citation: ' Stephan Neumann,  <b>Jurlind Budurushi</b>,  Melanie Volkamer</br> Design, Development, and Use of Secure Electronic Voting Systems'
+---

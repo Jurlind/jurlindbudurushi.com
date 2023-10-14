@@ -149,7 +149,7 @@ for pubsource in publist:
             #add venue logic depending on citation type
             venue = publist[pubsource]["venue-pretext"]+b[publist[pubsource]["venuekey"]].replace("{", "").replace("}","").replace("\\","")
 
-            citation = citation +"</br>"+ " " + html_escape(venue) +"</br>"
+            citation = citation +"</br>"+ " " + html_escape(venue) #+"</br>"
             citation = citation #+ ", " + pub_year + "."
 
             
@@ -186,7 +186,7 @@ for pubsource in publist:
 
             md += "\ncitation: '" + html_escape(citation) + "'"
 
-          #  md += "\n---"
+            md += "\n---"
 
             
             ## Markdown description for individual page

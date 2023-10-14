@@ -7,4 +7,5 @@ pages: '1-33'
 publisher: 'Bibliothek Karlsruhe Institut of Technology'
 year: '2021'
 paperurl: 'https://doi.org/10.5445/IR/1000137300'
-citation: ' Bernhard Beckert,  <b>Jurlind Budurushi</b>,  Armin Grunwald,  Robert Krimmer,  Oksana Kulyk,  Ralf K{\&quot;{u}}sters,  Andreas Mayer,  J{\&quot;{o}}rn M{\&quot;{u}}ller{-}Quade,  Stephan Neumann,  Melanie Volkamer</br> Aktuelle Entwicklungen im Kontext von Online-Wahlen und digitalen Abstimmungen</br>'
+citation: ' Bernhard Beckert,  <b>Jurlind Budurushi</b>,  Armin Grunwald,  Robert Krimmer,  Oksana Kulyk,  Ralf K{\&quot;{u}}sters,  Andreas Mayer,  J{\&quot;{o}}rn M{\&quot;{u}}ller{-}Quade,  Stephan Neumann,  Melanie Volkamer</br> Aktuelle Entwicklungen im Kontext von Online-Wahlen und digitalen Abstimmungen'
+---
