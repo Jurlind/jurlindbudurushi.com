@@ -3,7 +3,7 @@ title: "Elektronische Kandidatenauswahl und automatisierte Stimmermittlung am Be
 collection: journals
 permalink: /publications/2012-10-Elektronische-Kandidatenauswahl-und-automatisierte-Stimmermittlung-am-Beispiel-hessischer-Kommunalwahlen
 venue: 'Die &quot;Offentliche Verwaltung (D&quot;OV)'
-pages: '789--796'
+pages: '789-796'
 publisher: 'Kohlhammer'
 year: '2012'
 paperurl: 'https://secuso.aifb.kit.edu/downloads/RechtlicheBewertung.pdf'

@@ -170,8 +170,9 @@ for pubsource in publist:
 
             md += "\nvenue: '" + html_escape(venue) + "'"
 
-            #
-            md +=  "\npages: '" + b["pages"] + "'"
+            # replace -- with - in pages
+            pages = b["pages"].replace("--", "-") 
+            md +=  "\npages: '" + pages + "'"
 
             md +=  "\npublisher: '" + b["publisher"] + "'"
 

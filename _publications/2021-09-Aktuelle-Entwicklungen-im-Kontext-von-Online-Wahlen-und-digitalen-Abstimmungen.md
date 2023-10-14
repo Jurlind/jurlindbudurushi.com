@@ -3,7 +3,7 @@ title: "Aktuelle Entwicklungen im Kontext von Online-Wahlen und digitalen Abstim
 collection: preprints
 permalink: /publications/2021-09-Aktuelle-Entwicklungen-im-Kontext-von-Online-Wahlen-und-digitalen-Abstimmungen
 venue: 'Aktuelle Entwicklungen im Kontext von Online-Wahlen und digitalen Abstimmungen'
-pages: '1--33'
+pages: '1-33'
 publisher: 'Bibliothek Karlsruhe Institut of Technology'
 year: '2021'
 paperurl: 'https://doi.org/10.5445/IR/1000137300'
