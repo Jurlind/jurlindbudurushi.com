@@ -131,13 +131,18 @@ for pubsource in publist:
             #Build Citation from text
             citation = ""
 
-            #citation authors - todo - add highlighting for primary author?
+            #citation authors - added highlighting for primary author
             for author in bibdata.entries[bib_id].persons["author"]:
+                  
                 if "Jurlind" in author.first_names:
                     citation = citation+" "+"<b>"+author.first_names[0]+" "+author.last_names[0]+"</b>"+", "
                 else:
                     citation = citation+" "+author.first_names[0]+" "+author.last_names[0]+", "
 
+              
+            #citation authors - remove the space and comma from the last author in the list
+            citation = citation[:-2]
+        
           #  #citation title
           #  citation = citation + "\"" + html_escape(b["title"].replace("{", "").replace("}","").replace("\\","")) + ".\""
 
@@ -164,6 +169,13 @@ for pubsource in publist:
          #   md += "\ndate: " + str(pub_date) 
 
             md += "\nvenue: '" + html_escape(venue) + "'"
+
+            #
+            md +=  "\npages: '" + b["pages"] + "'"
+
+            md +=  "\npublisher: '" + b["publisher"] + "'"
+
+            md +=  "\nyear: '" + b["year"] + "'"
             
             url = False
             if "url" in b.keys():
