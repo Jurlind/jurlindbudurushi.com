@@ -8,4 +8,3 @@ publisher: 'Internet Society'
 year: '2014'
 paperurl: 'http://dx.doi.org/10.14722/usec.2014.23037'
 citation: ' <b>Jurlind Budurushi</b>,  Marcel Woide,  Melanie Volkamer</br> Workshop on Usable Security (USEC)</br>'
----

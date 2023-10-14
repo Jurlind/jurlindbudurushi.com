@@ -8,4 +8,3 @@ publisher: 'University of Tartu Press Proceedings'
 year: '2021'
 paperurl: 'http://hdl.handle.net/10062/74533'
 citation: ' <b>Jurlind Budurushi</b></br> Electronic Voting - 6th International Joint Conference on Electronic Voting (E-Vote-ID 2021)</br>'
----

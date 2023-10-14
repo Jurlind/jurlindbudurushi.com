@@ -8,4 +8,3 @@ publisher: 'Springer'
 year: '2016'
 paperurl: 'https://doi.org/10.1007/s12243-016-0510-2'
 citation: ' <b>Jurlind Budurushi</b>,  Karen Renaud,  Melani Volkamer,  Marcel Woide</br> Annals of Telecommunications</br>'
----

@@ -8,4 +8,3 @@ pages: '154-158'
 publisher: 'Verlag C.H.BECK'
 year: '2014'
 citation: ' Maria Henning,  <b>Jurlind Budurushi</b>,  Melanie Volkamer</br> MultiMedia und Recht (MMR)</br>'
----

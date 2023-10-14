@@ -8,4 +8,3 @@ publisher: 'arXiv'
 year: '2021'
 paperurl: 'https://doi.org/10.48550/arXiv.2107.11903'
 citation: ' Michelle Blom,  <b>Jurlind Budurushi</b>,  Ronald Rivest,  Philip Stark,  Peter Stuckey,  Vanessa Teague,  Damjan Vukcevic</br> Assertion-Based Approaches to Auditing Complex Elections, with Application to~Party-List Proportional Elections</br>'
----

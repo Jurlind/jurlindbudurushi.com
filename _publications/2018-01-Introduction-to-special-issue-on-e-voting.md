@@ -8,4 +8,3 @@ publisher: 'Elsevier'
 year: '2018'
 paperurl: 'https://doi.org/10.1016/j.jisa.2017.12.003'
 citation: ' <b>Jurlind Budurushi</b>,  Stephan Neumann,  Karen Renaud,  Melanie Volkamer</br> Journal of Information Security and Applications</br>'
----

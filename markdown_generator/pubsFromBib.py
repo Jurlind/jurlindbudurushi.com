@@ -186,7 +186,7 @@ for pubsource in publist:
 
             md += "\ncitation: '" + html_escape(citation) + "'"
 
-            md += "\n---"
+          #  md += "\n---"
 
             
             ## Markdown description for individual page

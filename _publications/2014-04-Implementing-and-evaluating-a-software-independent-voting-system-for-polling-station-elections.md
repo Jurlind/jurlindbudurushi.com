@@ -8,4 +8,3 @@ publisher: 'Elsevier'
 year: '2014'
 paperurl: 'https://doi.org/10.1016/j.jisa.2014.03.001'
 citation: ' <b>Jurlind Budurushi</b>,  Roman Jöris,  Melanie Volkamer</br> Journal of Information Security and Applications</br>'
----

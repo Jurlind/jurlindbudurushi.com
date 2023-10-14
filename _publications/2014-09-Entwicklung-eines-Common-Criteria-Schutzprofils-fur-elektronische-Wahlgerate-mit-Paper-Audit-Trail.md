@@ -8,4 +8,3 @@ publisher: 'Gesellschaft f{\"u}r Informatik'
 year: '2014'
 paperurl: 'https://dl.gi.de/handle/20.500.12116/2750'
 citation: ' <b>Jurlind Budurushi</b>,  Stephan Neumann,  Genc Shala,  Melanie Volkamer</br> 44. Jahrestagung der Gesellschaft f&amp;quot;ur Informatik, Big Data Komplexit&amp;quot;at meistern</br>'
----

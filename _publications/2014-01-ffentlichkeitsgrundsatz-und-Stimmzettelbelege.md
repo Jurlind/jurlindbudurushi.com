@@ -8,4 +8,3 @@ publisher: '{Technische Universit{\"a}t Darmstadt}'
 year: '2014'
 paperurl: 'https://download.hrz.tu-darmstadt.de/media/FB20/Dekanat/Publikationen/SECUSO/OEffentlichkeitsgrundsatzundStimmzettelbelege.pdf'
 citation: ' Maria Henning,  <b>Jurlind Budurushi</b>,  Melanie Volkamer</br> Öffentlichkeitsgrundsatz und Stimmzettelbelege</br>'
----
