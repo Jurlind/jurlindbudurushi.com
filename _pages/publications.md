@@ -8,9 +8,9 @@ author_profile: true
 #  googlescholar: https://scholar.google.de/citations?user=CrFW5JsAAAAJ
 ---
 
-{% if author.googlescholar %}
+<!--{% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+{% endif %}-->
 
 {% include base_path %}
 
