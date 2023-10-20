@@ -1,5 +1,5 @@
 ---
-title: "W&quot;ahlen in beliebigen Wahlbezirken: Ein neuer Wahlkanal"
+title: "Wählen in beliebigen Wahlbezirken: Ein neuer Wahlkanal"
 collection: publications
 type: publications
 permalink: /publications/2013-02-Wahlen-in-beliebigen-Wahlbezirken-Ein-neuer-Wahlkanal
