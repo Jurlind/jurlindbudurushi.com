@@ -1,6 +1,7 @@
 ---
 title: "Paper Audit Trails and Voters&apos; Privacy Concerns"
 collection: publications
+type: publications
 permalink: /publications/2014-06-Paper-Audit-Trails-and-Voters-Privacy-Concerns
 venue: 'Human Aspects of Information Security, Privacy and Trust (HCII 2014)'
 pages: '400-409'

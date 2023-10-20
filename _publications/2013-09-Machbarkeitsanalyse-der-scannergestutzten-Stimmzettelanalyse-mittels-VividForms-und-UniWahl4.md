@@ -1,6 +1,7 @@
 ---
 title: "Machbarkeitsanalyse der scannergest&quot;utzten Stimmzettelanalyse mittels VividForms und UniWahl4"
 collection: publications
+type: publications
 permalink: /publications/2013-09-Machbarkeitsanalyse-der-scannergestutzten-Stimmzettelanalyse-mittels-VividForms-und-UniWahl4
 venue: 'INFORMATIK 2013 – Informatik angepasst an Mensch, Organisation und Umwelt'
 pages: '752-766'

@@ -1,6 +1,7 @@
 ---
 title: "Analysis of Security and Cryptographic Approaches to Provide Secret and Verifiable Electronic Voting"
 collection: bookchapters
+type: bookchapters
 permalink: /publications/2014-01-Analysis-of-Security-and-Cryptographic-Approaches-to-Provide-Secret-and-Verifiable-Electronic-Voting
 venue: 'Design, Development, and Use of Secure Electronic Voting Systems'
 pages: '27-61'

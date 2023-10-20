@@ -1,6 +1,7 @@
 ---
 title: "Introducing Precautionary Behavior by Temporal Diversion of Voter Attention from Casting to Verifying their Vote"
 collection: publications
+type: publications
 permalink: /publications/2014-02-Introducing-Precautionary-Behavior-by-Temporal-Diversion-of-Voter-Attention-from-Casting-to-Verifying-their-Vote
 venue: 'Workshop on Usable Security (USEC)'
 pages: '1-6'

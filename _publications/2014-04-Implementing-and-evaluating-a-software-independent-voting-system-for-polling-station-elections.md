@@ -1,6 +1,7 @@
 ---
 title: "Implementing and evaluating a software-independent voting system for polling station elections"
 collection: journals
+type: journals
 permalink: /publications/2014-04-Implementing-and-evaluating-a-software-independent-voting-system-for-polling-station-elections
 venue: 'Journal of Information Security and Applications'
 pages: '105-114'

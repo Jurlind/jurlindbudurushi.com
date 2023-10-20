@@ -1,6 +1,7 @@
 ---
 title: "Assertion-Based Approaches to Auditing Complex Elections, with Application to~Party-List Proportional Elections"
 collection: preprints
+type: preprints
 permalink: /publications/2021-10-Assertion-Based-Approaches-to-Auditing-Complex-Elections-with-Application-toParty-List-Proportional-Elections
 venue: 'Assertion-Based Approaches to Auditing Complex Elections, with Application to~Party-List Proportional Elections'
 pages: '1-16'

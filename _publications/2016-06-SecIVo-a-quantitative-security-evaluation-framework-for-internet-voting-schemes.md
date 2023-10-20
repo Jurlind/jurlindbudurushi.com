@@ -1,6 +1,7 @@
 ---
 title: "SecIVo: a quantitative security evaluation framework for internet voting schemes"
 collection: journals
+type: journals
 permalink: /publications/2016-06-SecIVo-a-quantitative-security-evaluation-framework-for-internet-voting-schemes
 venue: 'Annals of Telecommunications'
 pages: '337-352'

@@ -1,6 +1,7 @@
 ---
 title: "Feasibility Analysis of Various Electronic Voting Systems for Complex Elections"
 collection: publications
+type: publications
 permalink: /publications/2014-05-Feasibility-Analysis-of-Various-Electronic-Voting-Systems-for-Complex-Elections
 venue: 'International Conference for E-Democracy and Open Government (CeDEM 2014)'
 pages: '141-152'

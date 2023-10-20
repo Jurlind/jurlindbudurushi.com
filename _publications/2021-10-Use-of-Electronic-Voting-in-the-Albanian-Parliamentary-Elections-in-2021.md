@@ -1,6 +1,7 @@
 ---
 title: "Use of Electronic Voting in the Albanian Parliamentary Elections in 2021"
 collection: publications
+type: publications
 permalink: /publications/2021-10-Use-of-Electronic-Voting-in-the-Albanian-Parliamentary-Elections-in-2021
 venue: 'Electronic Voting - 6th International Joint Conference on Electronic Voting (E-Vote-ID 2021)'
 pages: '304-319'

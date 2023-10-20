@@ -1,6 +1,7 @@
 ---
 title: "An investigation into the usability of electronic voting systems for complex elections"
 collection: journals
+type: journals
 permalink: /publications/2016-04-An-investigation-into-the-usability-of-electronic-voting-systems-for-complex-elections
 venue: 'Annals of Telecommunications'
 pages: '309-322'

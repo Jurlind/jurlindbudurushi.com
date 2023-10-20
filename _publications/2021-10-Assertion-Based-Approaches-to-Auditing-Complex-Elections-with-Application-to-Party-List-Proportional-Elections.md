@@ -1,6 +1,7 @@
 ---
 title: "Assertion-Based Approaches to Auditing Complex Elections, with Application to Party-List Proportional Elections"
 collection: publications
+type: publications
 permalink: /publications/2021-10-Assertion-Based-Approaches-to-Auditing-Complex-Elections-with-Application-to-Party-List-Proportional-Elections
 venue: 'Electronic Voting - 6th International Joint Conference on Electronic Voting (E-Vote-ID 2021)'
 pages: '47-62'

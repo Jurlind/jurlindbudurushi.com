@@ -1,6 +1,7 @@
 ---
 title: "Efficiency Evaluation of Cryptographic Protocols for Boardroom Voting"
 collection: publications
+type: publications
 permalink: /publications/2015-08-Efficiency-Evaluation-of-Cryptographic-Protocols-for-Boardroom-Voting
 venue: '10th International Conference on Availability, Reliability and Security (ARES 2015)'
 pages: '224-229'

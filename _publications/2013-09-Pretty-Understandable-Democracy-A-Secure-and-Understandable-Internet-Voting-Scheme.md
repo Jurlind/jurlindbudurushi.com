@@ -1,6 +1,7 @@
 ---
 title: "Pretty Understandable Democracy - A Secure and Understandable Internet Voting Scheme"
 collection: publications
+type: publications
 permalink: /publications/2013-09-Pretty-Understandable-Democracy-A-Secure-and-Understandable-Internet-Voting-Scheme
 venue: '8th International Conference on Availability, Reliability and Security (ARES 2013)'
 pages: '198-207'

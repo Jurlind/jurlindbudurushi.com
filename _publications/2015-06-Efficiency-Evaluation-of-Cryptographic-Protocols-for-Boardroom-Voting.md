@@ -1,6 +1,7 @@
 ---
 title: "Efficiency Evaluation of Cryptographic Protocols for Boardroom Voting"
 collection: preprints
+type: preprints
 permalink: /publications/2015-06-Efficiency-Evaluation-of-Cryptographic-Protocols-for-Boardroom-Voting
 venue: 'Efficiency Evaluation of Cryptographic Protocols for Boardroom Voting'
 pages: '1-19'

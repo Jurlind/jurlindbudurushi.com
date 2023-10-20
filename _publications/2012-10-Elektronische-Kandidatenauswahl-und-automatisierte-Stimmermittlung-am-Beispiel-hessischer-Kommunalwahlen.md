@@ -1,6 +1,7 @@
 ---
 title: "Elektronische Kandidatenauswahl und automatisierte Stimmermittlung am Beispiel hessischer Kommunalwahlen"
 collection: journals
+type: journals
 permalink: /publications/2012-10-Elektronische-Kandidatenauswahl-und-automatisierte-Stimmermittlung-am-Beispiel-hessischer-Kommunalwahlen
 venue: 'Die &quot;Offentliche Verwaltung (D&quot;OV)'
 pages: '789-796'

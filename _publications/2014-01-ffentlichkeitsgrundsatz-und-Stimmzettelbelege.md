@@ -1,6 +1,7 @@
 ---
 title: "Öffentlichkeitsgrundsatz und Stimmzettelbelege"
 collection: preprints
+type: preprints
 permalink: /publications/2014-01-ffentlichkeitsgrundsatz-und-Stimmzettelbelege
 venue: 'Öffentlichkeitsgrundsatz und Stimmzettelbelege'
 pages: '1-15'

@@ -1,6 +1,7 @@
 ---
 title: "Coercion-Resistant Proxy Voting"
 collection: publications
+type: publications
 permalink: /publications/2016-05-Coercion-Resistant-Proxy-Voting
 venue: 'ICT Systems Security and Privacy Protection - 31st IFIP TC 11 International Conference (IFIP SEC 2016)'
 pages: '3-16'

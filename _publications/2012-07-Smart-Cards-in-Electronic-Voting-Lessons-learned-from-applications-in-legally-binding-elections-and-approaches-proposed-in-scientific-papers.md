@@ -1,6 +1,7 @@
 ---
 title: "Smart Cards in Electronic Voting - Lessons learned from applications in legally binding elections and approaches proposed in scientific papers"
 collection: publications
+type: publications
 permalink: /publications/2012-07-Smart-Cards-in-Electronic-Voting-Lessons-learned-from-applications-in-legally-binding-elections-and-approaches-proposed-in-scientific-papers
 venue: '5th International Conference on Electronic Voting (EVOTE 2012)'
 pages: '257-270'

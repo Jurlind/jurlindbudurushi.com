@@ -1,6 +1,7 @@
 ---
 title: "What Will Make Me Trust or Not Trust Will Depend Upon How Secure the Technology Is”: Factors Influencing Trust Perceptions of the Use of Election Technologie"
 collection: publications
+type: publications
 permalink: /publications/2022-10-What-Will-Make-Me-Trust-or-Not-Trust-Will-Depend-Upon-How-Secure-the-Technology-Is-Factors-Influencing-Trust-Perceptions-of-the-Use-of-Election-Technologie
 venue: 'Electronic Voting - 7th International Joint Conference on Electronic Voting (E-Vote-ID 2022)'
 pages: '1-17'

@@ -1,6 +1,7 @@
 ---
 title: "Usable Security Evaluation of EasyVote in the Context of Complex Elections"
 collection: phd
+type: phd
 permalink: /publications/2016-02-Usable-Security-Evaluation-of-EasyVote-in-the-Context-of-Complex-Elections
 venue: 'Usable Security Evaluation of EasyVote in the Context of Complex Elections'
 pages: '1-173'

@@ -1,6 +1,7 @@
 ---
 title: "Side-channels and eVoting machine security: Identifying vulnerabilities and defining requirements"
 collection: publications
+type: publications
 permalink: /publications/2011-08-Side-channels-and-eVoting-machine-security-Identifying-vulnerabilities-and-defining-requirements
 venue: 'International Workshop on Requirements Engineering for Electronic Voting Systems (REVOTE 2011)'
 pages: '37-46'

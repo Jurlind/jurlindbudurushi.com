@@ -1,6 +1,7 @@
 ---
 title: "Vote casting device with VV-SV-PAT for elections with complicated ballot papers"
 collection: publications
+type: publications
 permalink: /publications/2011-08-Vote-casting-device-with-VV-SV-PAT-for-elections-with-complicated-ballot-papers
 venue: 'International Workshop on Requirements Engineering for Electronic Voting Systems (REVOTE 2011)'
 pages: '1-8'
