@@ -1,5 +1,5 @@
 ---
-title: "Paper Audit Trails and Voters&apos; Privacy Concerns"
+title: "Paper Audit Trails and Voters' Privacy Concerns"
 collection: publications
 type: publications
 permalink: /publications/2014-06-Paper-Audit-Trails-and-Voters-Privacy-Concerns
