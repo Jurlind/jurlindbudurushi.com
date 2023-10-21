@@ -49,7 +49,7 @@ In: <i>Digital Engineering Center, Detecon International GmbH - Berlin, Germany,
 In: <i>Telekom Innovation Laboratories - Beer Sheva, Israel, 2018.</i>
 
 <h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">IT-Security Consulting at Detecon: A brief Insight from Practice</h2>
-In: <i>SECUSO Research Seminar, Technische Universtität Darmstadt - Darmstadt, Germany, 2017.</i>
+In: <i>SECUSO Research Seminar, Technische Universität Darmstadt - Darmstadt, Germany, 2017.</i>
 
 <h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">EasyVote - Design, Evaluation and Next Steps</h2>
 In: <i>DemTech Research Seminar, IT University of Copenhagen - Copenhagen, Denmark, 2016.</i>
@@ -61,17 +61,17 @@ In: <i>E-enabled Elections in Estonia: A Forum on Research and Development - Tar
 In: <i>SRM Seminar, University of Luxembourg - Luxembourg, 2014.</i>
 
 <h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">A Systematic Approach for Identifying all Possibilities for Casting a valid/invalid Vote and Discrepancies between Printout and QR-Code in EasyVote</h2>
-In: <i>SECUSO Research Seminar, Technische Universtität Darmstadt - Darmstadt, Germany, 2013.</i>
+In: <i>SECUSO Research Seminar, Technische Universität Darmstadt - Darmstadt, Germany, 2013.</i>
 
 <h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Smart Cards in Electronic Voting - Lessons Learned from Applications in legally binding Elections and Approaches proposed in Scientific Papers</h2>
-In: <i>SECUSO Research Seminar, Technische Universtität Darmstadt - Darmstadt, Germany, 2012.</i>
+In: <i>SECUSO Research Seminar, Technische Universität Darmstadt - Darmstadt, Germany, 2012.</i>
 
 
 <!-- Conferences -->
 <h2 id="conferences" style="color: white; padding: 5px; background-color: #52adc8; margin-bottom: -20px">Conferences</h2>
 
 <h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Use of Electronic Voting in the Albanian Parliamentary Elections in 2021</h2>
-In: <i>6th International Conference for Electronic Voting (E-Vote-ID) - Remote, 2021.</i>
+In: <i>6th International Conference for Electronic Voting - Remote, 2021.</i>
 
 <h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Evaluating and Improving the EasyVote Tallying Component and Ballot</h2>
 In: <i>6th Electronic Voting Conference - Lochau, Austria, 2014.</i>
