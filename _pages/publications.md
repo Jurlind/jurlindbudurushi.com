@@ -18,6 +18,7 @@ author_profile: true
 <p></p>
 [Journals](#journals) | [Proceedings](#proceedings) | [Editor](#editor) | [Book chapters](#bookchapters) | [Preprints](#preprints) | [Phd](#phd)
 
+<!-- Journals -->
 <h2 id="journals" style="color: white; padding: 5px; background-color: #52adc8; margin-bottom: -20px">Journals</h2>
 {% for post in site.publications reversed %}
   {% if post.type == "journals" %}
@@ -26,6 +27,7 @@ author_profile: true
 {% endfor %}
 
 
+<!-- Proceedings -->
 <h2 id="proceedings" style="color: white; padding: 5px; background-color: #52adc8; margin-bottom: -20px">Proceedings</h2>
 {% for post in site.publications reversed %}
   {% if post.type == "publications" %}
@@ -33,6 +35,8 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
+
+<!-- Editor -->
 <h2 id="editor" style="color: white; padding: 5px; background-color: #52adc8; margin-bottom: -20px">Editor</h2>
 {% for post in site.publications reversed %}
   {% if post.type == "editors" %}
@@ -40,6 +44,8 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
+
+<!-- Book chapters -->
 <h2 id="bookchapters" style="color: white; padding: 5px; background-color: #52adc8; margin-bottom: -20px">Book chapters</h2>
 {% for post in site.publications reversed %}
   {% if post.type == "bookchapters" %}
@@ -47,6 +53,8 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
+
+<!-- Preprints -->
 <h2 id="preprints" style="color: white; padding: 5px; background-color: #52adc8; margin-bottom: -20px">Preprints</h2>
 {% for post in site.publications reversed %}
   {% if post.type == "preprints" %}
@@ -54,6 +62,8 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
+
+<!-- Phd -->
 <h2 id="phd" style="color: white; padding: 5px; background-color: #52adc8; margin-bottom: -20px">Phd</h2>
 {% for post in site.publications reversed %}
   {% if post.type == "phd" %}
