@@ -10,5 +10,3 @@ redirect_from:
 {% include base_path %}
 
 In case you are interested in a copy of my CV, please send me an [Email](mailto:hello@jurlindbudurushi.com) request.
-
-Download [PresiAI.pdf](../files/File4.pdf)
