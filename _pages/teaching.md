@@ -8,8 +8,28 @@ author_profile: true
 {% include base_path %}
 
 <p></p>
-[Qatar University](#qu) | [DHBW Karlsruhe](#dhbw) | [Technikum Wien](#techwien) | [Technische Universität Darmstadt](#tud)
+[DHBW Karlsruhe](#dhbw) | [Qatar University](#qu) | [Technikum Wien](#techwien) | [Technische Universität Darmstadt](#tud)
 
+<!-- DHBW Karlsruhe -->
+<h2 id="dhbw" style="color: white; padding: 5px; background-color: #52adc8; margin-bottom: -20px">DHBW Karlsruhe</h2>
+
+
+<h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Lectures</h2>
+
+<p>IT-Security (Winter Semester 2019 to 2024)</p>
+<p>Theoretical Computer Science I - Fundamentals and Logic (Winter Semster 2024)</p>
+
+<h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Supervised Bachelor Theses</h2>
+
+<p><i>Passwordless Authentication Roadmap</i> by Yannik Schiebelhut</p>
+<p><i>Cybersecurity im Finanzsektor - Analyse aktueller Bedrohungen und Untersuchung von verwendeten Defense Evasion Techniken</i> by Tim Daniel Friedrich</p>
+<p><i>Identity und Lifecycle Management – Workflows und Prozesse in der zentralen Benutzerverwaltung</i> by Sascha Vollmer</p>
+<p><i>Verschlüsselung von Konfigurationsparametern in einer verteilten Software-Deployment Umgebung</i> by Nicole Kersten</p>
+<p><i>Compliance Automation with CNUDIE</i> by Philipp Heil</p>
+<p><i>Vergleich verschiedener Continuous Integration und Continuous Deployment Pipelines im Hinblick auf ihre Eignung für Cloud und Cloud Native Anwendungen</i> by Daniel Schädler</p>
+<p><i>Implementierung einer Bibliothek zur Speicherung kryptographischer Schlüssel auf einem NXP EdgeLock SE050</i> by Jan Spilker</p>
+<p><i>Evaluation der Potentiale von Sprachauthentifizierung in differenzierten Beispielanwendungen in Bezug auf Usability und Sicherheit</i> by Alexander Grundmann</p>
+<p><i>Entwicklung einer Anwendung zur Verwaltung von Sicherheitsereignissen</i> by Riko Kritzer
 
 <!-- QU -->
 <h2 id="qu" style="color: white; padding: 5px; background-color: #52adc8; margin-bottom: -20px">Qatar University</h2>
@@ -28,26 +48,6 @@ author_profile: true
 <h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Labs</h2>
 <p>Operating Systems (Fall Semester 2022 & 2023; Spring Semester 2023)</p>
 
-
-<!-- DHBW Karlsruhe -->
-<h2 id="dhbw" style="color: white; padding: 5px; background-color: #52adc8; margin-bottom: -20px">DHBW Karlsruhe</h2>
-
-
-<h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Lectures</h2>
-
-<p>IT-Security (Winter Semester 2019 to 2023)</p>
-
-<h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Supervised Bachelor Theses</h2>
-
-<p><i>Passwordless Authentication Roadmap</i> by Yannik Schiebelhut</p>
-<p><i>Cybersecurity im Finanzsektor - Analyse aktueller Bedrohungen und Untersuchung von verwendeten Defense Evasion Techniken</i> by Tim Daniel Friedrich</p>
-<p><i>Identity und Lifecycle Management – Workflows und Prozesse in der zentralen Benutzerverwaltung</i> by Sascha Vollmer</p>
-<p><i>Verschlüsselung von Konfigurationsparametern in einer verteilten Software-Deployment Umgebung</i> by Nicole Kersten</p>
-<p><i>Compliance Automation with CNUDIE</i> by Philipp Heil</p>
-<p><i>Vergleich verschiedener Continuous Integration und Continuous Deployment Pipelines im Hinblick auf ihre Eignung für Cloud und Cloud Native Anwendungen</i> by Daniel Schädler</p>
-<p><i>Implementierung einer Bibliothek zur Speicherung kryptographischer Schlüssel auf einem NXP EdgeLock SE050</i> by Jan Spilker</p>
-<p><i>Evaluation der Potentiale von Sprachauthentifizierung in differenzierten Beispielanwendungen in Bezug auf Usability und Sicherheit</i> by Alexander Grundmann</p>
-<p><i>Entwicklung einer Anwendung zur Verwaltung von Sicherheitsereignissen</i> by Riko Kritzer
 
 <!-- Technikum Wien -->
 <h2 id="techwien" style="color: white; padding: 5px; background-color: #52adc8; margin-bottom: -20px">Technikum Wien</h2>
