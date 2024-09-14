@@ -33,6 +33,8 @@ author_profile: true
 <!-- Track chair -->
 <h2 id="trackchair" style="color: white; padding: 5px; background-color: #52adc8; margin-bottom: -20px">Track Chair</h2>
 
+<h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">9th International Joint Conference on Electronic Voting</h2>
+
 <h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Eight International Joint Conference on Electronic Voting</h2>
 
 <h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Seventh International Joint Conference on Electronic Voting</h2>
@@ -41,6 +43,9 @@ author_profile: true
 <!-- Program committee -->
 <h2 id="programcommittee" style="color: white; padding: 5px; background-color: #52adc8; margin-bottom: -20px">Program Committee</h2>
 
+<h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">9th Workshop on Advances in Secure Electronic Voting</h2>
+
+<h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">European Workshop on Usable Security (2024)</h2>
 
 <h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Eight International Joint Conference on Electronic Voting</h2>
 
@@ -78,6 +83,7 @@ author_profile: true
 <!-- Reviewer -->
 <h2 id="reviewer" style="color: white; padding: 5px; background-color: #52adc8; margin-bottom: -20px">Reviewer</h2>
 
+<h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Ad Hoc Networks</h2>
 
 <h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Journal of ACM Computing Surveys</h2>
 
