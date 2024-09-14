@@ -23,14 +23,14 @@ author_profile: true
 
 <h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Supervised Bachelor Theses</h2>
 
-<p><i>Evaluation und Implementierung einer digital souveränen Lösung zur Erhöhung der Nutzungstransparenz webbasierter Softwareprodukte</i>by Florian Pilz</p>
-<p><i>Cloud-basierte Windows VDI-Clients: Marktanalyse und Durchführung eines Proof-of-Concept</i>by Kai Beisheim</p>
-<p><i>Machine-Learning-basierte Fehlererkennung und -analyse im OpenSync Framework der CAS Software AG</i>by Nico Argst</p>
+<p><i>Evaluation und Implementierung einer digital souveränen Lösung zur Erhöhung der Nutzungstransparenz webbasierter Softwareprodukte</i> by Florian Pilz</p>
+<p><i>Cloud-basierte Windows VDI-Clients: Marktanalyse und Durchführung eines Proof-of-Concept</i> by Kai Beisheim</p>
+<p><i>Machine-Learning-basierte Fehlererkennung und -analyse im OpenSync Framework der CAS Software AG</i> by Nico Argst</p>
 <p><i>Entwicklung eines KI unterstützten Chatbots für die SmartMaps Produktplattform</i> by Niklas Geppert</p>
-<p><i>Entwicklung eines flexiblen Policy-Management-Systems zur Verwaltung und Durchsetzung von System- und Kommunikationsrichtlinie</i>by Paul Faller</p>
-<p><i>Erstellung von Incident Response Playbooks</i>by Thomas Bäuml</p>
-<p><i>Konzeption und Entwicklung eines Keystore Managers zur Verwaltung von Zertifikaten, Tokens, Passwörtern, SSH- und PGP-Schlüsseln</i>by Tim Wäckerle</p>
-<p><i>Standardisierte Abbildung von Produktvarianten im Kontext von Produktkonfiguratoren</i>by Vanessa Limberger</p>
+<p><i>Entwicklung eines flexiblen Policy-Management-Systems zur Verwaltung und Durchsetzung von System- und Kommunikationsrichtlinie</i> by Paul Faller</p>
+<p><i>Erstellung von Incident Response Playbooks</i> by Thomas Bäuml</p>
+<p><i>Konzeption und Entwicklung eines Keystore Managers zur Verwaltung von Zertifikaten, Tokens, Passwörtern, SSH- und PGP-Schlüsseln</i> by Tim Wäckerle</p>
+<p><i>Standardisierte Abbildung von Produktvarianten im Kontext von Produktkonfiguratoren</i> by Vanessa Limberger</p>
 <p><i>Passwordless Authentication Roadmap</i> by Yannik Schiebelhut</p>
 <p><i>Cybersecurity im Finanzsektor - Analyse aktueller Bedrohungen und Untersuchung von verwendeten Defense Evasion Techniken</i> by Tim Daniel Friedrich</p>
 <p><i>Identity und Lifecycle Management – Workflows und Prozesse in der zentralen Benutzerverwaltung</i> by Sascha Vollmer</p>
