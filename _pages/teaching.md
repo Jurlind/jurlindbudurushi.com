@@ -15,11 +15,11 @@ author_profile: true
 
 
 <h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Lectures</h2>
-<p>Specials Topics in Linux OS Security (Summer Semester 2024)</p>
-<p>Operating Systems (Summer Semester 2024)</p>
-<p>Theoretical Computer Science II - Algorithms and Data Structures (Summer Semster 2024)</p>
-<p>IT-Security (Winter Semester 2019 to 2024)</p>
-<p>Theoretical Computer Science I - Fundamentals and Logic (Winter Semster 2024)</p>
+<p>Specials Topics in Linux OS Security (Summer Term 2024)</p>
+<p>Operating Systems (Summer Term 2024)</p>
+<p>Theoretical Computer Science II - Algorithms and Data Structures (Summer Term 2024)</p>
+<p>IT-Security (Winter Term 2019 to 2024)</p>
+<p>Theoretical Computer Science I - Fundamentals and Logic (Winter Term 2024)</p>
 
 <h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Supervised Bachelor Theses</h2>
 
@@ -47,16 +47,16 @@ author_profile: true
 
 <h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Lectures</h2>
 
-<p>Computer Security (Fall Semester 2023)</p>
-<p>Specials Topics in Linux OS Security (Spring Semster 2023)</p>
-<p>Operating Systems (Spring Semester 2023)</p>
-<p>Applied Cryptography (Fall Semester 2022)</p>
+<p>Computer Security (Fall Term 2023)</p>
+<p>Specials Topics in Linux OS Security (Spring Term 2023)</p>
+<p>Operating Systems (Spring Semeester 2023)</p>
+<p>Applied Cryptography (Fall Semeester 2022)</p>
 
 <h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Projects</h2>
-<p>Senior Design Project (Fall Semester 2022 & 2023; Spring Semester 2023)</p>
+<p>Senior Design Project (Fall Term 2022 & 2023; Spring Term 2023)</p>
 
 <h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Labs</h2>
-<p>Operating Systems (Fall Semester 2022 & 2023; Spring Semester 2023)</p>
+<p>Operating Systems (Fall Term 2022 & 2023; Spring Term 2023)</p>
 
 
 <!-- Technikum Wien -->
@@ -65,7 +65,7 @@ author_profile: true
 
 <h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Lectures</h2>
 
-<p>IT-Security (Summer Semester 2021)</p>
+<p>IT-Security (Summer Term 2021)</p>
 
 
 <!-- TUD -->
@@ -105,14 +105,14 @@ author_profile: true
 
 <h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Tutorials</h2>
 
-<p>IT-Security (Summer Semester 2011)</p>
-<p>Technical Foundations in Computer Science 2 (Winter Semester 2010)</p>
-<p>Technical Foundations in Computer Science 1 (Winter Semester 2010)</p>
-<p>Foundations of Computing (Winter Semester 2010)</p>
-<p>Foundations in Computer Science 2 (Summer Semester 2010)</p>
-<p>Formal Foundations in Computer Science 2 (Summer Semester 2010)</p>
-<p>Formal Foundations in Computer Science 1 (Summer Semester 2010)</p>
-<p>Technical Foundations in Computer Science 2 (Winter Semester 2009)</p>
-<p>Technical Foundations in Computer Science 1 (Winter Semester 2009)</p>
-<p>Foundations of Computing (Winter Semester 2009)</p>
-<p>Formal Foundations in Computer Science 2 (Summer Semester 2009)</p>
+<p>IT-Security (Summer Term 2011)</p>
+<p>Technical Foundations in Computer Science 2 (Winter Term 2010)</p>
+<p>Technical Foundations in Computer Science 1 (Winter Term 2010)</p>
+<p>Foundations of Computing (Winter Term 2010)</p>
+<p>Foundations in Computer Science 2 (Summer Term 2010)</p>
+<p>Formal Foundations in Computer Science 2 (Summer Term 2010)</p>
+<p>Formal Foundations in Computer Science 1 (Summer Term 2010)</p>
+<p>Technical Foundations in Computer Science 2 (Winter Term 2009)</p>
+<p>Technical Foundations in Computer Science 1 (Winter Term 2009)</p>
+<p>Foundations of Computing (Winter Term 2009)</p>
+<p>Formal Foundations in Computer Science 2 (Summer Term 2009)</p>
