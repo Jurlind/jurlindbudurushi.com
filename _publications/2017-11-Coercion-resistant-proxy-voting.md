@@ -3,7 +3,7 @@ title: "Coercion-resistant proxy voting"
 collection: journals
 type: journals
 permalink: /publications/2017-11-Coercion-resistant-proxy-voting
-venue: 'Computers &amp; Security'
+venue: 'Computers & Security'
 pages: '88-99'
 publisher: 'Elsevier'
 year: '2017'
