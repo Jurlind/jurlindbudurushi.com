@@ -15,6 +15,8 @@ author_profile: true
 
 
 <h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Lectures</h2>
+<p>Linux Basics for Hackers (Winter Term 2024)</p>
+<p>Theoretical Computer Science III - Formal Languages and Automata Theory (Summer Term 2024)</p>
 <p>Specials Topics in Linux OS Security (Summer Term 2024)</p>
 <p>Operating Systems (Summer Term 2024)</p>
 <p>Theoretical Computer Science II - Algorithms and Data Structures (Summer Term 2024)</p>

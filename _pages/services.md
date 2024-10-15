@@ -26,6 +26,7 @@ author_profile: true
 <!-- Chair -->
 <h2 id="chair" style="color: white; padding: 5px; background-color: #52adc8; margin-bottom: -20px">Chair</h2>
 
+<h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">10th Workshop on Advances in Secure Electronic Voting</h2>
 
 <h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">9th Workshop on Advances in Secure Electronic Voting</h2>
 
@@ -35,19 +36,23 @@ author_profile: true
 
 <h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">9th International Joint Conference on Electronic Voting</h2>
 
-<h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Eight International Joint Conference on Electronic Voting</h2>
+<h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">8th International Joint Conference on Electronic Voting</h2>
 
-<h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Seventh International Joint Conference on Electronic Voting</h2>
+<h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">7th International Joint Conference on Electronic Voting</h2>
 
 
 <!-- Program committee -->
 <h2 id="programcommittee" style="color: white; padding: 5px; background-color: #52adc8; margin-bottom: -20px">Program Committee</h2>
 
+<h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">10th Workshop on Advances in Secure Electronic Voting</h2>
+
 <h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">9th Workshop on Advances in Secure Electronic Voting</h2>
 
 <h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">European Workshop on Usable Security (2024)</h2>
 
-<h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Eight International Joint Conference on Electronic Voting</h2>
+<h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">European Interdisciplinary Cybersecurity Conference (2024)</h2>
+
+<h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">8th International Joint Conference on Electronic Voting</h2>
 
 <h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">8th Workshop on Advances in Secure Electronic Voting</h2>
 
@@ -55,13 +60,13 @@ author_profile: true
 
 <h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">European Workshop on Usable Security (2023)</h2>
 
-<h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Seventh International Joint Conference on Electronic Voting</h2>
+<h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">7th International Joint Conference on Electronic Voting</h2>
 
 <h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">European Interdisciplinary Cybersecurity Conference (2022)</h2>
 
 <h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">European Workshop on Usable Security (2022)</h2>
 
-<h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Sixth International Joint Conference on Electronic Voting</h2>
+<h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">6th International Joint Conference on Electronic Voting</h2>
 
 <h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">European Interdisciplinary Cybersecurity Conference (2021)</h2>
 
@@ -71,7 +76,7 @@ author_profile: true
 
 <h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">6th International Workshop on Socio-Technical Aspects in Security and Trust</h2>
 
-<h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">First International Joint Conference on Electronic Voting</h2>
+<h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">1st International Joint Conference on Electronic Voting</h2>
 
 <h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">6th International Conference on Electronic Voting</h2>
 

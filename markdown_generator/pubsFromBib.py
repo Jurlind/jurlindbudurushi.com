@@ -31,49 +31,49 @@ publist = {
         "venuekey": "booktitle",
         "venue-pretext": "",
         "collection": {"name":"publications",
-                        "permalink":"/publications/"}
+                       "permalink":"/publications/"}
         
     },
 
-    "journals":{
-        "file": "bibfiles/journals.bib",
-        "venuekey": "journal",
-        "venue-pretext" : "",
-        "collection": {"name":"journals",
-                        "permalink":"/publications/"}
-    },
+ #   "journals":{
+ #       "file": "bibfiles/journals.bib",
+ #       "venuekey": "journal",
+ #       "venue-pretext" : "",
+ #       "collection": {"name":"journals",
+ #                       "permalink":"/publications/"}
+ #   },
 
-    "bookchapters":{
-        "file": "bibfiles/bookchapters.bib",
-        "venuekey": "booktitle",
-        "venue-pretext" : "",
-        "collection": {"name":"bookchapters",
-                        "permalink":"/publications/"}
-    },
+ #   "bookchapters":{
+ #       "file": "bibfiles/bookchapters.bib",
+ #       "venuekey": "booktitle",
+ #       "venue-pretext" : "",
+ #       "collection": {"name":"bookchapters",
+ #                       "permalink":"/publications/"}
+ #   },
 
-    "editor":{
-        "file": "bibfiles/editor.bib",
-        "venuekey": "title",
-        "venue-pretext" : "",
-        "collection": {"name":"editors",
-                        "permalink":"/publications/"}
-    },
+ #   "editor":{
+ #       "file": "bibfiles/editor.bib",
+ #       "venuekey": "title",
+ #       "venue-pretext" : "",
+ #       "collection": {"name":"editors",
+ #                       "permalink":"/publications/"}
+ #   },
 
-    "prepints":{
-        "file": "bibfiles/preprints.bib",
-        "venuekey": "title",
-        "venue-pretext" : "",
-        "collection": {"name":"preprints",
-                        "permalink":"/publications/"}
-    },
+ #   "prepints":{
+ #      "file": "bibfiles/preprints.bib",
+ #       "venuekey": "title",
+ #       "venue-pretext" : "",
+ #       "collection": {"name":"preprints",
+ #                       "permalink":"/publications/"}
+ #   },
 
-    "phd":{
-        "file": "bibfiles/phd.bib",
-        "venuekey": "title",
-        "venue-pretext" : "",
-        "collection": {"name":"phd",
-                        "permalink":"/publications/"}
-    }
+ #   "phd":{
+ #       "file": "bibfiles/phd.bib",
+ #       "venuekey": "title",
+ #       "venue-pretext" : "",
+ #       "collection": {"name":"phd",
+ #                       "permalink":"/publications/"}
+ #   }
 }
 
 html_escape_table = {
