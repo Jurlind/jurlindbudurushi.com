@@ -52,7 +52,7 @@ author_profile: true
 <p>Computer Security (Fall Term 2023)</p>
 <p>Specials Topics in Linux OS Security (Spring Term 2023)</p>
 <p>Operating Systems (Spring Semeester 2023)</p>
-<p>Applied Cryptography (Fall Semeester 2022)</p>
+<p>Applied Cryptography (Fall Semeester 2022) <a href="[Slides](https://drive.google.com/drive/folders/1nRlbGYA0_lrXazhqTBTtj11uBkVIwIMw?usp=sharing)"> Slides</a> </p>
 
 <h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Projects</h2>
 <p>Senior Design Project (Fall Term 2022 & 2023; Spring Term 2023)</p>
