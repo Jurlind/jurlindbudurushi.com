@@ -15,7 +15,7 @@ author_profile: true
 
 
 <h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Lectures</h2>
-<p>Linux Basics for Hackers (Winter Term 2024); <a href="https://drive.google.com/drive/folders/13HDdDAXqytITDCTwZlGyQMnZmJDGZsTY?usp=sharing" target="_blank"> Slides</a> ; <a href="https://drive.google.com/drive/folders/1yEXb4QO9egv0temVvqFEM3XZQwM0wO82?usp=sharing" target="_blank"> Labs</a> </p>
+<p>Linux Basics for Hackers (Winter Term 2024); <a href="https://drive.google.com/drive/folders/13HDdDAXqytITDCTwZlGyQMnZmJDGZsTY?usp=sharing" target="_blank"> Slides</a>; <a href="https://drive.google.com/drive/folders/1yEXb4QO9egv0temVvqFEM3XZQwM0wO82?usp=sharing" target="_blank"> Labs</a> </p>
 <p>Theoretical Computer Science III - Formal Languages and Automata Theory (Summer Term 2024)</p>
 <p>Specials Topics in Linux OS Security (Summer Term 2024)</p>
 <p>Operating Systems (Summer Term 2024)</p>
