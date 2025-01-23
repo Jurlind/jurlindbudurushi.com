@@ -17,7 +17,7 @@ author_profile: true
 <h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Lectures</h2>
 <p>Linux Basics for Hackers (Winter Term 2024); <a href="https://drive.google.com/drive/folders/13HDdDAXqytITDCTwZlGyQMnZmJDGZsTY?usp=sharing" target="_blank"> Slides</a>; <a href="https://drive.google.com/drive/folders/1yEXb4QO9egv0temVvqFEM3XZQwM0wO82?usp=sharing" target="_blank"> Labs</a> </p>
 <p>Theoretical Computer Science III - Formal Languages and Automata Theory (Summer Term 2024)</p>
-<p>Specials Topics in Linux OS Security (Summer Term 2024) <a href="https://drive.google.com/drive/folders/1Jc6eiIB2ZEOnFnk3WvzexVc2Ma399keb?usp=sharing" target="_blank"> Slides, Demos, Tasks and Tutorials</a></p>
+<p>Special Topics in Linux OS Security (Summer Term 2024); <a href="https://drive.google.com/drive/folders/1Jc6eiIB2ZEOnFnk3WvzexVc2Ma399keb?usp=sharing" target="_blank"> Slides, Demos, Tasks and Tutorials</a></p>
 <p>Operating Systems (Summer Term 2024)</p>
 <p>Theoretical Computer Science II - Algorithms and Data Structures (Summer Term 2024)</p>
 <p>IT-Security (Winter Term 2019 to 2024)</p>
@@ -50,7 +50,7 @@ author_profile: true
 <h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Lectures</h2>
 
 <p>Computer Security (Fall Term 2023)</p>
-<p>Specials Topics in Linux OS Security (Spring Term 2023) <a href="https://drive.google.com/drive/folders/1Jc6eiIB2ZEOnFnk3WvzexVc2Ma399keb?usp=sharing" target="_blank"> Slides, Demos, Tasks and Tutorials</a></p>
+<p>Special Topics in Linux OS Security (Spring Term 2023); <a href="https://drive.google.com/drive/folders/1Jc6eiIB2ZEOnFnk3WvzexVc2Ma399keb?usp=sharing" target="_blank"> Slides, Demos, Tasks and Tutorials</a></p>
 <p>Operating Systems (Spring Term 2023)</p>
 <p>Applied Cryptography (Fall Term 2022); <a href="https://drive.google.com/drive/folders/1nRlbGYA0_lrXazhqTBTtj11uBkVIwIMw?usp=sharing" target="_blank"> Slides</a> </p>
 
