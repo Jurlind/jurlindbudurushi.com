@@ -26,14 +26,14 @@ import re
 
 #todo: incorporate different collection types rather than a catch all publications, requires other changes to template
 publist = {
-    "proceedings": {
-        "file": "bibfiles/proceedings.bib",
-        "venuekey": "booktitle",
-        "venue-pretext": "",
-        "collection": {"name":"publications",
-                       "permalink":"/publications/"}
+ #   "proceedings": {
+ #       "file": "bibfiles/proceedings.bib",
+ #       "venuekey": "booktitle",
+ #       "venue-pretext": "",
+ #       "collection": {"name":"publications",
+ #                      "permalink":"/publications/"}
         
-    },
+ #   },
 
  #   "journals":{
  #       "file": "bibfiles/journals.bib",
@@ -51,13 +51,13 @@ publist = {
  #                       "permalink":"/publications/"}
  #   },
 
- #   "editor":{
- #       "file": "bibfiles/editor.bib",
- #       "venuekey": "title",
- #       "venue-pretext" : "",
- #       "collection": {"name":"editors",
- #                       "permalink":"/publications/"}
- #   },
+    "editor":{
+        "file": "bibfiles/editor.bib",
+        "venuekey": "title",
+        "venue-pretext" : "",
+        "collection": {"name":"editors",
+                        "permalink":"/publications/"}
+    },
 
  #   "prepints":{
  #      "file": "bibfiles/preprints.bib",

@@ -15,16 +15,28 @@ author_profile: true
 
 
 <h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Lectures</h2>
+<p>IT-Security (Winter Term 2019 to 2025)</p>
+<p>Theoretical Computer Science I - Fundamentals and Logic (Winter Term 2024 to 2026)</p>
+<p>Theoretical Computer Science II - Algorithms and Data Structures (Summer Term 2024 to 2025)</p>
+<p>Theoretical Computer Science III - Formal Languages and Automata Theory (Winter Term 2024)</p>
 <p>Linux Basics for Hackers (Winter Term 2024); <a href="https://drive.google.com/drive/folders/13HDdDAXqytITDCTwZlGyQMnZmJDGZsTY?usp=sharing" target="_blank"> Slides</a>; <a href="https://drive.google.com/drive/folders/1yEXb4QO9egv0temVvqFEM3XZQwM0wO82?usp=sharing" target="_blank"> Labs</a> </p>
-<p>Theoretical Computer Science III - Formal Languages and Automata Theory (Summer Term 2024)</p>
 <p>Special Topics in Linux OS Security (Summer Term 2024); <a href="https://drive.google.com/drive/folders/1Jc6eiIB2ZEOnFnk3WvzexVc2Ma399keb?usp=sharing" target="_blank"> Slides, Demos, Tasks and Tutorials</a></p>
 <p>Operating Systems (Summer Term 2024)</p>
-<p>Theoretical Computer Science II - Algorithms and Data Structures (Summer Term 2024)</p>
-<p>IT-Security (Winter Term 2019 to 2024)</p>
-<p>Theoretical Computer Science I - Fundamentals and Logic (Winter Term 2024)</p>
+
+
 
 <h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Supervised Bachelor Theses</h2>
 
+<p><i>KI-basierte Optimierung der Informationssuche im IAM-Umfeld</i> by Arthur Pristrom</p>
+<p><i>Untersuchen von Standardlösungen zum Ablösen eines proprietären redundanten Langzeitarchivierungssystems</i> by Dawid Jan Chelchowski</p>
+<p><i>Evaluierung von Linux eBPF für die Implementierung von virtueller und physischer
+Echtzeit-Steuerungen</i> by Janis Fuchs</p>
+<p><i>Automatisierte Generierung von Identitätsmanagement-Richtlinien mittels generativer KI zur Verbesserung von Sicherheit und
+Benutzerfreundlichkeit</i> Marvin Lindner</p>
+<p><i>CLIOFA - Ein CLI-Tool zur Optimierung der Firmware-Authentizitätsprüfung: Ein Ansatz zur
+Verbesserung der automatisierten Testbarkeit von Signaturverifikationsmechanismen</i> by Sarah Ficht</p>
+<p><i>Evaluation verschiedener Methoden zur sicheren clusterübergreifenden Kommunikation
+mit Kubernetes</i>Thomas Wall</p>
 <p><i>Evaluation und Implementierung einer digital souveränen Lösung zur Erhöhung der Nutzungstransparenz webbasierter Softwareprodukte</i> by Florian Pilz</p>
 <p><i>Cloud-basierte Windows VDI-Clients: Marktanalyse und Durchführung eines Proof-of-Concept</i> by Kai Beisheim</p>
 <p><i>Machine-Learning-basierte Fehlererkennung und -analyse im OpenSync Framework der CAS Software AG</i> by Nico Argst</p>

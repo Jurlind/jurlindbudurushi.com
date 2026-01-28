@@ -70,6 +70,9 @@ In: <i>SECUSO Research Seminar, Technische Universität Darmstadt - Darmstadt, G
 <!-- Conferences -->
 <h2 id="conferences" style="color: white; padding: 5px; background-color: #52adc8; margin-bottom: -20px">Conferences</h2>
 
+<h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Enhancing Helios with Biometric Authentication and Smartphone-Automated Verifiability</h2>
+In: <i>EGOV2025 – IFIP EGOV-CeDEM-EPART 2025 - Krems, Austria, 2025.</i>
+
 <h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Voting beyond borders: A pilot study investigating preferences and trade-offs in remote voting among the Albanian electorate</h2>
 In: <i>EGOV2024 – IFIP EGOV-CeDEM-EPART 2024 - Leuven, Belgium, 2024.</i>
 
@@ -97,6 +100,10 @@ In: <i>International Workshop on Requirements Engineering for Electronic Voting 
 
 <!-- Workshops -->
 <h2 id="workshops" style="color: white; padding: 5px; background-color: #52adc8; margin-bottom: -20px">Workshops</h2>
+
+<h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Enhancing Helios for Elections at Qatar University</h2>
+In: <i>Financial Cryptography and Data Security. FC 2025 International Workshops - VOTING - Miyakojima, Japan, 2025.</i>
+
 
 <h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Introducing Precautionary Behavior by Temporal Diversion of Voter Attention from Casting to Verifying their Vote</h2>
 In: <i>Workshop on Usable Security - San Diego, California, USA, 2014.</i>
