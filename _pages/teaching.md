@@ -30,7 +30,7 @@ author_profile: true
 <p><i>Autonomes Sicherheitstesten moderner Webanwendungen mit multimodalen Sprachmodellen</i> by Pascal Speidel</p>
 <p><i>Implementierung und Auswertung einer Monitoring- und Logging-Lösung für das Identity- und Access-Managementd</i> by Elias Wörz</p>
 <p><i>Entwicklung eines standardisierten, toolgestützten Requirement-Managements zur Ablösung dokumentenbasierter Anforderungen auf Basis von Azure DevOps</i> by Omar Ismail</p>
-<p><i>Analyse mehrerer Faktoren und deren Verkettung in der Multi-Faktor-Authentifizierung</i>by Sebastian Hirsch/p>
+<p><i>Analyse mehrerer Faktoren und deren Verkettung in der Multi-Faktor-Authentifizierung</i>by Sebastian Hirsch</p>
 <p><i>KI-basierte Optimierung der Informationssuche im IAM-Umfeld</i> by Arthur Pristrom</p>
 <p><i>Untersuchen von Standardlösungen zum Ablösen eines proprietären redundanten Langzeitarchivierungssystems</i> by Dawid Jan Chelchowski</p>
 <p><i>Evaluierung von Linux eBPF für die Implementierung von virtueller und physischer
