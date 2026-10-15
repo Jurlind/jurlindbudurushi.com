@@ -3,7 +3,6 @@ title: "E-Vote-ID 2024: Ninth International Joint Conference on Electronic Votin
 collection: editors
 type: editors
 permalink: /publications/2024-10-E-Vote-ID-2024-Ninth-International-Joint-Conference-on-Electronic-Voting
-excerpt: '2--4 October 2024'
 venue: 'E-Vote-ID 2024: Ninth International Joint Conference on Electronic Voting'
 pages: '1-221'
 publisher: 'Gesellschaft für Informatik'

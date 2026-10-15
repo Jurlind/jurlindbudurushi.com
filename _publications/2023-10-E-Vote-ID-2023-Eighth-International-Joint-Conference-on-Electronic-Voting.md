@@ -3,7 +3,6 @@ title: "E-Vote-ID 2023: Eighth International Joint Conference on Electronic Voti
 collection: editors
 type: editors
 permalink: /publications/2023-10-E-Vote-ID-2023-Eighth-International-Joint-Conference-on-Electronic-Voting
-excerpt: '3--6 October 2023'
 venue: 'E-Vote-ID 2023: Eighth International Joint Conference on Electronic Voting'
 #pages: ''
 publisher: 'Gesellschaft für Informatik'
