@@ -9,8 +9,53 @@ author_profile: true
 
 
 <p></p>
-[Invited speaker](#invitedspeaker) | [Conferences](#conferences) | [Workshops](#workshops)
+ [Conferences](#conferences) | [Workshops](#workshops) | [Invited speaker](#invitedspeaker)
 
+<!-- Conferences -->
+<h2 id="conferences" style="color: white; padding: 5px; background-color: #52adc8; margin-bottom: -20px">Conferences</h2>
+
+<h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Enhancing Helios with Biometric Authentication and Smartphone-Automated Verifiability</h2>
+In: <i>EGOV2025 – IFIP EGOV-CeDEM-EPART 2025 - Krems, Austria, 2025.</i>
+
+<h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Voting beyond borders: A pilot study investigating preferences and trade-offs in remote voting among the Albanian electorate</h2>
+In: <i>EGOV2024 – IFIP EGOV-CeDEM-EPART 2024 - Leuven, Belgium, 2024.</i>
+
+<h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Use of Electronic Voting in the Albanian Parliamentary Elections in 2021</h2>
+In: <i>6th International Conference for Electronic Voting - Remote, 2021.</i>
+
+<h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Evaluating and Improving the EasyVote Tallying Component and Ballot</h2>
+In: <i>6th Electronic Voting Conference - Lochau, Austria, 2014.</i>
+
+<h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Paper Audit Trails and Voters’ Privacy Concerns</h2>
+In: <i>Human-Computer Interaction - Crete, Greece, 2014.</i>
+
+<h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Feasibility Analysis of Various Electronic Voting Systems for Complex Elections</h2>
+In: <i>Conference for E-Democracy and Open Government - Krems, Austria, 2014.</i>
+
+<h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Vote Casting in Any Preferred Constituency: A New Voting Channel</h2>
+In: <i>The 4th International Conference on e-Voting and Identity - Guilford, UK, 2013.</i>
+
+<h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Wählen in beliebigen Wahlbezirken: Ein neuer Wahlkanal</h2>
+In: <i>Internationales Rechtsinformatik Symposion - Salzburg, Austria, 2013.</i>
+
+<h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Vote casting device with VV-SV-PAT for elections with complicated ballot papers</h2>
+In: <i>International Workshop on Requirements Engineering for Electronic Voting Systems - Trento, Italy, 2011.</i>
+
+
+<!-- Workshops -->
+<h2 id="workshops" style="color: white; padding: 5px; background-color: #52adc8; margin-bottom: -20px">Workshops</h2>
+
+<h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Assorter-Based RLAs for Complex Sainte-Laguë Elections: A Stratified Approach Using Trusted and Untrusted Ballots</h2>
+In: <i>Financial Cryptography and Data Security. FC 2026 International Workshops - VOTING - St. Kitts, St. Kitts and Nevis, 2026.</i>
+
+<h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Enhancing Helios for Elections at Qatar University</h2>
+In: <i>Financial Cryptography and Data Security. FC 2025 International Workshops - VOTING - Miyakojima, Japan, 2025.</i>
+
+<h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Introducing Precautionary Behavior by Temporal Diversion of Voter Attention from Casting to Verifying their Vote</h2>
+In: <i>Workshop on Usable Security - San Diego, California, USA, 2014.</i>
+
+<h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Verfeinerung der Methode zur Entwicklung eines rechtskonformen CC-Schutzprofils für elektronische Wahlgeräte mit Paper Audit Trails</h2>
+In: <i>GI Workshop: Elektronische Wahlen: Unterstützung der Wahlprozesse mittels Technik - Stuttgart, Germany, 2014.</i>
 
 <!-- Invited speaker -->
 <h2 id="invitedspeaker" style="color: white; padding: 5px; background-color: #52adc8; margin-bottom: -20px">Invited speaker</h2>
@@ -65,48 +110,3 @@ In: <i>SECUSO Research Seminar, Technische Universität Darmstadt - Darmstadt, G
 
 <h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Smart Cards in Electronic Voting - Lessons Learned from Applications in legally binding Elections and Approaches proposed in Scientific Papers</h2>
 In: <i>SECUSO Research Seminar, Technische Universität Darmstadt - Darmstadt, Germany, 2012.</i>
-
-
-<!-- Conferences -->
-<h2 id="conferences" style="color: white; padding: 5px; background-color: #52adc8; margin-bottom: -20px">Conferences</h2>
-
-<h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Enhancing Helios with Biometric Authentication and Smartphone-Automated Verifiability</h2>
-In: <i>EGOV2025 – IFIP EGOV-CeDEM-EPART 2025 - Krems, Austria, 2025.</i>
-
-<h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Voting beyond borders: A pilot study investigating preferences and trade-offs in remote voting among the Albanian electorate</h2>
-In: <i>EGOV2024 – IFIP EGOV-CeDEM-EPART 2024 - Leuven, Belgium, 2024.</i>
-
-<h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Use of Electronic Voting in the Albanian Parliamentary Elections in 2021</h2>
-In: <i>6th International Conference for Electronic Voting - Remote, 2021.</i>
-
-<h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Evaluating and Improving the EasyVote Tallying Component and Ballot</h2>
-In: <i>6th Electronic Voting Conference - Lochau, Austria, 2014.</i>
-
-<h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Paper Audit Trails and Voters’ Privacy Concerns</h2>
-In: <i>Human-Computer Interaction - Crete, Greece, 2014.</i>
-
-<h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Feasibility Analysis of Various Electronic Voting Systems for Complex Elections</h2>
-In: <i>Conference for E-Democracy and Open Government - Krems, Austria, 2014.</i>
-
-<h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Vote Casting in Any Preferred Constituency: A New Voting Channel</h2>
-In: <i>The 4th International Conference on e-Voting and Identity - Guilford, UK, 2013.</i>
-
-<h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Wählen in beliebigen Wahlbezirken: Ein neuer Wahlkanal</h2>
-In: <i>Internationales Rechtsinformatik Symposion - Salzburg, Austria, 2013.</i>
-
-<h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Vote casting device with VV-SV-PAT for elections with complicated ballot papers</h2>
-In: <i>International Workshop on Requirements Engineering for Electronic Voting Systems - Trento, Italy, 2011.</i>
-
-
-<!-- Workshops -->
-<h2 id="workshops" style="color: white; padding: 5px; background-color: #52adc8; margin-bottom: -20px">Workshops</h2>
-
-<h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Enhancing Helios for Elections at Qatar University</h2>
-In: <i>Financial Cryptography and Data Security. FC 2025 International Workshops - VOTING - Miyakojima, Japan, 2025.</i>
-
-
-<h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Introducing Precautionary Behavior by Temporal Diversion of Voter Attention from Casting to Verifying their Vote</h2>
-In: <i>Workshop on Usable Security - San Diego, California, USA, 2014.</i>
-
-<h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Verfeinerung der Methode zur Entwicklung eines rechtskonformen CC-Schutzprofils für elektronische Wahlgeräte mit Paper Audit Trails</h2>
-In: <i>GI Workshop: Elektronische Wahlen: Unterstützung der Wahlprozesse mittels Technik - Stuttgart, Germany, 2014.</i>

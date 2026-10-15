@@ -9,7 +9,7 @@ author_profile: true
 
 
 <p></p>
-[Organiser](#organiser) | [Chair](#chair) | [Track Chair](#trackchair) | [Program Committee](#programcommittee) | [Reviewer](#reviewer)
+[Organiser](#organiser) | [Steering Committee](#steeringcommittee) | [Chair](#chair) | [Track Chair](#trackchair) | [Program Committee](#programcommittee) | [Reviewer](#reviewer)
 
 
 <!-- Organiser -->
@@ -22,6 +22,10 @@ author_profile: true
 
 <h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">44. GI Informatik Jahrestagung / Workshop: Elektronische Wahlen: Unterstützung der Wahlprozesse mittels Technik</h2>
 
+<!-- Steering Committee -->
+<h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">11th International Joint Conference on Electronic Voting</h2>
+
+<h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">10th International Joint Conference on Electronic Voting</h2>
 
 <!-- Chair -->
 <h2 id="chair" style="color: white; padding: 5px; background-color: #52adc8; margin-bottom: -20px">Chair</h2>
@@ -43,6 +47,8 @@ author_profile: true
 
 <!-- Program committee -->
 <h2 id="programcommittee" style="color: white; padding: 5px; background-color: #52adc8; margin-bottom: -20px">Program Committee</h2>
+<h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Conference on Sociotechnical Cybersecurity and Privacy (SCP 2026)</h2>
+
 <h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">11th Workshop on Advances in Secure Electronic Voting</h2>
 
 <h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">10th International Joint Conference on Electronic Voting</h2>

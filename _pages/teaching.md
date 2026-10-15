@@ -15,9 +15,9 @@ author_profile: true
 
 
 <h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Lectures</h2>
-<p>IT-Security (Winter Term 2019 to 2025)</p>
+<p>IT-Security (Summer Term 2025; Winter Term 2019 to 2025)</p>
 <p>Theoretical Computer Science I - Fundamentals and Logic (Winter Term 2024 to 2026)</p>
-<p>Theoretical Computer Science II - Algorithms and Data Structures (Summer Term 2024 to 2025)</p>
+<p>Theoretical Computer Science II - Algorithms and Data Structures (Summer Term 2024 to 2026)</p>
 <p>Theoretical Computer Science III - Formal Languages and Automata Theory (Winter Term 2024)</p>
 <p>Linux Basics for Hackers (Winter Term 2024); <a href="https://drive.google.com/drive/folders/13HDdDAXqytITDCTwZlGyQMnZmJDGZsTY?usp=sharing" target="_blank"> Slides</a>; <a href="https://drive.google.com/drive/folders/1yEXb4QO9egv0temVvqFEM3XZQwM0wO82?usp=sharing" target="_blank"> Labs</a> </p>
 <p>Special Topics in Linux OS Security (Summer Term 2024); <a href="https://drive.google.com/drive/folders/1Jc6eiIB2ZEOnFnk3WvzexVc2Ma399keb?usp=sharing" target="_blank"> Slides, Demos, Tasks and Tutorials</a></p>
@@ -27,6 +27,10 @@ author_profile: true
 
 <h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">Supervised Bachelor Theses</h2>
 
+<p><i>Autonomes Sicherheitstesten moderner Webanwendungen mit multimodalen Sprachmodellen</i> by Pascal Speidel</p>
+<p><i>Implementierung und Auswertung einer Monitoring- und Logging-Lösung für das Identity- und Access-Managementd</i> by Elias Wörz</p>
+<p><i>Entwicklung eines standardisierten, toolgestützten Requirement-Managements zur Ablösung dokumentenbasierter Anforderungen auf Basis von Azure DevOps</i> by Omar Ismail</p>
+<p><i>Analyse mehrerer Faktoren und deren Verkettung in der Multi-Faktor-Authentifizierung</i>by Sebastian Hirsch/p>
 <p><i>KI-basierte Optimierung der Informationssuche im IAM-Umfeld</i> by Arthur Pristrom</p>
 <p><i>Untersuchen von Standardlösungen zum Ablösen eines proprietären redundanten Langzeitarchivierungssystems</i> by Dawid Jan Chelchowski</p>
 <p><i>Evaluierung von Linux eBPF für die Implementierung von virtueller und physischer
