@@ -23,6 +23,8 @@ author_profile: true
 <h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">44. GI Informatik Jahrestagung / Workshop: Elektronische Wahlen: Unterstützung der Wahlprozesse mittels Technik</h2>
 
 <!-- Steering Committee -->
+<h2 id="organiser" style="color: white; padding: 5px; background-color: #52adc8; margin-bottom: -20px">Steering Committee</h2>
+
 <h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">11th International Joint Conference on Electronic Voting</h2>
 
 <h2  style="color: #52adc8; font-size: 1.25em;  margin: 2em 0 0.5em;">10th International Joint Conference on Electronic Voting</h2>
